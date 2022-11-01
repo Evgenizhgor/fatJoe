@@ -1,0 +1,26 @@
+h1 {text-align: center;
+    margin-bottom: 12px;
+text-shadow: 1px 1px 1px #000;}
+.no-pasaran {text-align: center;}    
+body {color: yellow; border: 2px white solid;
+background: linear-gradient(#c7000c 0%, #740505 60%, #3e0404 100%) ; 
+padding: 5px 10px; 
+
+}
+input[type="submit"] {
+    width: 40%;
+    height: 5em;
+    display: block;
+    padding: 70px auto 10px auto;
+    margin: 2em auto;
+    border-radius: 45px;
+}
+fieldset {border-color: orange;}
+.logo {display: flex;
+    flex-direction: row;
+justify-content: center;}
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+.divider {  border-bottom: 3px solid #740505; width: 40%; margin-left: auto; margin-right: auto; box-shadow: 1px 1px 1px hsl(58, 91%, 50%); }
+.skill img{ width: 100px; height: 70px; }
+.skill {display: flex;
+direction: ;}
